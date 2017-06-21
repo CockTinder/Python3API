@@ -103,3 +103,7 @@ ENV/
 
 #idea config dir
 .idea/
+
+
+#google creds file to get no problems on web
+creds.py
