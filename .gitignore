@@ -106,4 +106,4 @@ ENV/
 
 
 #google creds file to get no problems on web
-creds.py
+creds.json
