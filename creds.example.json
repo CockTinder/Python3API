@@ -1,0 +1,10 @@
+
+{
+    "web": {
+        "client_id": "client_id",
+        "client_secret": "client_secret",
+        "redirect_uris": ["/auth/google/callback"],
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "toke_uri": "https://accounts.google.com/o/oauth2/token"
+    }
+}
